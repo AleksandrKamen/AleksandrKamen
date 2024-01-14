@@ -28,7 +28,6 @@
 
 <p align ='center'>
    <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Tg" alt="Tg" width="100" height="30"/></a>
-   <a href=""><img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg" title="Tg" alt="Tg" width="100" height="30"/></a> 
 </p>
 
 <p align='center'>
