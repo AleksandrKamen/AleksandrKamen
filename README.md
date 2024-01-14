@@ -19,15 +19,17 @@
 </div>
 
 ### My opensource projects:
-* <a href="https://github.com/AleksandrKamen/Checkers">Checkers</a> -  
-* <a href="https://github.com/AleksandrKamen/Simulation-World">Simulation-World</a> -
-* <a href="https://github.com/AleksandrKamen/Currency-exchange-api">Currency-exchange-api</a> -
-* <a href="https://github.com/AleksandrKamen/Tennis-match-scoreboard">Tennis-match-scoreboard</a> -
-* <a href="https://github.com/AleksandrKamen/Weather">Weather</a> -
+* <a href="https://github.com/AleksandrKamen/Checkers">Checkers</a> - This project implements classic checkers.
+* <a href="https://github.com/AleksandrKamen/Simulation-World">Simulation-World</a> - This project is a 2D step-by-step simulation of a world populated by predators, herbivores and hunters. The simulation takes place on a map that also contains grass (food for herbivores), trees and rocks (static objects).
+* <a href="https://github.com/AleksandrKamen/Currency-exchange-api">Currency-exchange-api</a> - REST API for describing currencies and exchange rates. Allows you to view and edit lists of currencies and exchange rates, and calculate the conversion of arbitrary amounts from one currency to another.
+* <a href="https://github.com/AleksandrKamen/Tennis-match-scoreboard">Tennis-match-scoreboard</a> - A web application that implements a scoreboard for a tennis match.
+* <a href="https://github.com/AleksandrKamen/Weather">Weather</a> - A web application for viewing current weather
 
 
 <p align ='center'>
-   <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Tg" alt="Tg" width="100" height="30"/></a>
+   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/7ff3b583-235a-4d12-aa83-cc5326f35730" title="Tg" alt="Tg" width="30" height="30"/></a> 
+   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/fb42d76c-f09b-46ee-8138-8606272a54a1" title="Tg" alt="Tg" width="30" height="30"/></a>
+  <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/d59afa68-1b90-478f-b386-9c9662d484e0" title="Tg" alt="Tg" width="30" height="30"/></a>
 </p>
 
 <p align='center'>
