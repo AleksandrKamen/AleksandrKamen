@@ -1,6 +1,6 @@
-## Hi, I am Aleksandr 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrKamen&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Aleksandr+Kamenev"/>
+</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 *  Java (Core, Hibernate, Spring Boot, Thymeleaf, Spring Data, Spring Security and more)
