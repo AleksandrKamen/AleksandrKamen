@@ -1,5 +1,6 @@
 ## Hi, I am Aleksandr 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrKamen&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 *  Java (Core, Hibernate, Spring Boot, Thymeleaf, Spring Data, Spring Security and more)
