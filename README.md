@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Aleksandr+Kamenev"/>
 </h1>
-
 <h2>My stats:</h2>
 <div align=center>
   <img width=370  src="https://github-readme-stats.vercel.app/api?username=AleksandrKamen&show_icons=true&bg_color=00000000&title_color=000000" />
