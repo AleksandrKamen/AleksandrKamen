@@ -35,6 +35,6 @@
   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/7ff3b583-235a-4d12-aa83-cc5326f35730" title="Wt" alt="Tg" width="40" height="40"/></a> 
   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/fb42d76c-f09b-46ee-8138-8606272a54a1" title="Tg" alt="Tg" width="40" height="40"/></a>
   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/d59afa68-1b90-478f-b386-9c9662d484e0" title="Gm" alt="Tg" width="40" height="40"/></a>
-  <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/a9af487b-bfae-43b5-ba3e-aa4caa996b2a" title="Hh" alt="Tg" width="40" height="40"/></a>  
+<!--   <a href=""><img src="https://github.com/AleksandrKamen/AleksandrKamen/assets/144233016/a9af487b-bfae-43b5-ba3e-aa4caa996b2a" title="Hh" alt="Tg" width="40" height="40"/></a>   -->
 </p>
 
