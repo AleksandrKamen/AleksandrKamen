@@ -17,7 +17,7 @@
      <li> Git/GitHub</li>
  </ul>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,sqlite,mysql,redis,docker,bootstrap,html,css,gradle,hibernate,idea,postman,github,git" /> 
+    <img src="https://skillicons.dev/icons?i=java,js,spring,postgres,sqlite,mysql,redis,docker,bootstrap,html,css,gradle,hibernate,idea,postman,github,git" /> 
 </div>
 <br/>
 <hr/>
