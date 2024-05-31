@@ -15,7 +15,7 @@
      <li> Java (Core, Hibernate, Spring Boot, Thymeleaf, Spring Data, Spring Security and more)</li>
      <li> Databases SQL DBs (MySQL, Postgres, Sqlite), No SQL (Redis, Minio)</li>
      <li> Git/GitHub/GitGub Actions</li>
-     <li>Dokcer, DockerHub</li>
+     <li>Docker, DockerHub</li>
  </ul>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,spring,postgres,sqlite,mysql,redis,docker,bootstrap,html,css,gradle,hibernate,idea,postman,github,git,rabbitmq,idea,jquery" /> 
