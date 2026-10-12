@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Aleksandr+Kamenev"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Aleksandr"/>
 </h1>
 <h2>My stats:</h2>
 <div align=center>
